@@ -36,7 +36,8 @@ Sou apaixonado por tecnologias inovadoras, números e criação. Combinando minh
 
 ## Formulário de Contato
 
-Se preferir, envie-me uma mensagem diretamente pelo formulário abaixo:
+Pensando em me contratar para um projeto?
+Pode conseguir um orçamento preenchendo o formulário abaixo:
 
 <!-- Início do formulário do Google Forms -->
 <iframe src="https://forms.gle/oJ625FxqGz5ZgSd87" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
