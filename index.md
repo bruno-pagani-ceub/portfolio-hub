@@ -5,7 +5,7 @@ title: "PortfolioHUB"
 
 # Bem-vindo ao meu Portfólio
 
-![Foto de Perfil](perfil-linkedin-540px.jpg){: style="float: right; margin-left: 20px; width: 250px;" }
+![Foto de Perfil](images/perfil-linkedin-540px.jpg){: style="float: right; margin-left: 20px; width: 250px;" }
 
 ## Bruno Moreira Pagani
 
