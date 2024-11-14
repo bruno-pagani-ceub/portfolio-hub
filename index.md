@@ -39,5 +39,5 @@ Sou apaixonado por tecnologias inovadoras, números e criação. Combinando minh
 Se preferir, envie-me uma mensagem diretamente pelo formulário abaixo:
 
 <!-- Início do formulário do Google Forms -->
-<iframe src="https://docs.google.com/forms/d/e/SEU_FORM_ID/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
-<!-- Substitua "SEU_FORM_ID" pelo ID do seu formulário do Google Forms -->
+<iframe src="https://forms.gle/oJ625FxqGz5ZgSd87" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+
