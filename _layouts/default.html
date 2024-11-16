@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <div id="container">
+      <!-- Menu Lateral -->
+      <aside id="sidebar">
+        <h2>{{ site.title }}</h2>
+        <nav>
+          <ul>
+            <li><a href="{{ site.baseurl }}/">Home</a></li>
+            <li><a href="{{ site.baseurl }}/about">Sobre Mim</a></li>
+            <li><a href="{{ site.baseurl }}/experience">Experiência</a></li>
+            <li><a href="{{ site.baseurl }}/certifications">Certificações</a></li>
+            <li><a href="{{ site.baseurl }}/skills">Habilidades</a></li>
+          </ul>
+        </nav>
+      </aside>
+
+      <!-- Conteúdo Principal -->
+      <main id="content">
+        {{ content }}
+      </main>
+    </div>
+  </body>
+</html>
